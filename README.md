@@ -3,11 +3,11 @@
 ### Dependencies
 This notebook uses Pandas and Pathlib
 
-###
+### Report Overview
 Report includes summary data for the district and schools. Highest and lowest performing schools are called out. Math and Reading scores and passing rates are reported by school, by grade by school, by spending per student, school size, and by school type. Further analysis is provided on the relationship between school size and funding by school type.
 
 
-# Analysis
+### Analysis
 - The District and School Summaries provide an overview of all math and reading scores, budgets, size and types of schools in the district.
 - A summary of the highest and lowest preforming schools are also provided. An observation that stands out in these two charts is that all of the top 5 performaing schools are Charter schools, and all of the 5 lowest performing schools are District schools. This is reenforced when comparing performance by school type.
 - When we look at scores across grades, there is no noticable difference between grades at any individual school. With the assumption that each grade is covering different content, it might appear that the school a child attends does not impact their score from year-to-year. However, since this data is not longitudinal, this is only a hypothesis, and would need to be further explored.
